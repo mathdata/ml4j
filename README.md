@@ -1,2 +1,2 @@
 # ml4j
-A machine learing lib for java
+A machine learning lib for java
